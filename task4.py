@@ -1,14 +1,11 @@
-# Debugging Challenge - Fix the bugs in each code block
-# Each block is independent and can be fixed separately
-
 # Snippet 1:
 books = 12
-if books > 10
+if books 10
     print("You have a lot of books!")
 
 
 # Snippet 2:
-favorite_color = "blue
+favorite_color = "blue"
 print(favorite_color)
 
 
@@ -30,7 +27,7 @@ message = "Wear sunglasses"
 distance = 50
  2
 speed = distance / time
-print(f"Speed: {speed} mph"
+print(f"Speed: {speed} mph")
 
 
 # Snippet 6:
@@ -42,7 +39,7 @@ if level = 5:
 # Snippet 7:
 width = 8
 height = 10
-area = widht * height
+area = width * height
 print(f"Area: {area}")
 
 
@@ -61,4 +58,4 @@ if hungry:
 
 # Snippet 10:
 age = 15
-print(f"I am {age} years old)
+print(f"I am {age} years old")
